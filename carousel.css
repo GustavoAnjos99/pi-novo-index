@@ -30,4 +30,11 @@
   }
 
 
+  /*Cor das arrows do carrosel*/
+  .slick-prev:before {
+    color: gray!important;
+  }
+  .slick-next:before {
+    color: gray!important;
+  }
   

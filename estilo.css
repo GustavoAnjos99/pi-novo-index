@@ -378,4 +378,13 @@ header{
     margin: 10px auto;
   }
 
+
+  /*ajuste imagens do grid*/
+  .image-grid{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  
  
